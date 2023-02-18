@@ -1,6 +1,7 @@
 <h1>Heeseung Lee <br /> 이희승</h1>
-<p>예쁜말로 소통하는 주니어 프론트엔드 개발자🙋‍♀️</p>  
-<br />
+<p>예쁜말로 소통하는 주니어 프론트엔드 개발자🙋‍♀️</p>
+<p>꾸준히 성장하며, 함께 일하고 싶은 사람이 되겠습니다.</p>
+
 <br />
 <br />
 
@@ -28,8 +29,7 @@
 <div align=left>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://aleen42.github.io/badges/src/stackoverflow.svg">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
 </div>
 
 
